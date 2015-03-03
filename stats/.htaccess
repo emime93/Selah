@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "selahtraveller.com Statistics"
+AuthUserFile /var/chroot/home/content/14/10518614/html/stats/.statspwd
+Require valid-user
+DirectoryIndex index.html
